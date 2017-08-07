@@ -4,52 +4,66 @@ I. Foundation
 - Computer basics
 - Introduction to computers and programming
 - Command line
-- Git
+- Git and Git work flows
 - Text editors and IDEs
 - HTML & CSS
 
+
 II. JavaScript
 -----------------------------
-- Async
-- Promises
-- OO design
-- ES6
+- Higher order functions and closures
 - Functional programming
-- Scope (closure, hoisting)
-- This
+- Asynchronous programming and Promises
+- Classes and Object oriented programming
+- Inheritance
+- Maps and sets
+- Generators
+- Recursion
+
 
 III. Software development
 -----------------------------
-- Frontend development
 - Angular
 - React
 - Vue
 - Node
-- Git workflows
+- Testing
 - Continuous integration
-- Build systems
 - Security
 - Monitoring
 - Logging 
 - Internationalization 
 - Agile Software Development
 
-IV. QA engineering
------------------------------
+
+IV. Software design and architecture
+--------------------------------------
+- Singleton
+- Factory
+- Abstract factory
+- Adapter
+- Composite
+- Decorator
+- Command
+- Observer
+- Iterator
+
 
 V. AWS Systems Administration
------------------------------
+--------------------------------------
+- S3
+- Route 53
+- EC2
+- Elastic load balancing
+- Auto Scaling
+- RDS
+- Dynamo DB
+- Virtual Private Cloud
+- Glacier
+- CloudFront
 
-VI. Data Engineering
------------------------------
 
-VII. Security engineering
------------------------------
-
-VIII. Software design and architecture
------------------------------
-
-IX. Computer Science 
+VI. Computer Science 
 -----------------------------
 - Programming methodology
 - Mathematical foundations of computing
@@ -58,17 +72,17 @@ IX. Computer Science
 - Computer organization and systems
 - Principles of Computer Systems
 - Design and Analysis of Algorithms
+- Programming languages
 - Compilers
 - Computer Networking
-- Bitcoin and Cryptocurrencies
-- control theory and optimization
 
-X. Mathematics
+
+VII. Mathematics
 -----------------------------
 - Discrete Math
 - Statistics
 - Linear Algebra
-- Multivariable Calculus
+- Multi variable Calculus
 - Differential Equations
 - Abstract Algebra
 - Regression Analysis
