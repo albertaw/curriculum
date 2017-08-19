@@ -2,33 +2,35 @@ I. Foundation
 -----------------------------
 - Typing
 - Computer basics
-- Introduction to computers and programming
+- Hardware and programming languages
 - Command line
 - Git and Git work flows
 - Text editors and IDEs
 - HTML & CSS
+- How browsers work
 
-
-II. JavaScript
------------------------------
+II. Programming
+---------------------------------------
 - Higher order functions and closures
 - Functional programming
 - Asynchronous programming and Promises
 - Classes and Object oriented programming
 - Inheritance
 - Maps and sets
-- Generators
+- Iterators and Generators
 - Recursion
 
 
 III. Software development
------------------------------
+---------------------------------------
 - Angular
 - React
 - Vue
 - Node
 - Testing
 - Continuous integration
+- Containers
+- Building and Deploying
 - Security
 - Monitoring
 - Logging 
@@ -37,7 +39,7 @@ III. Software development
 
 
 IV. Software design and architecture
---------------------------------------
+---------------------------------------
 - Singleton
 - Factory
 - Abstract factory
@@ -47,10 +49,11 @@ IV. Software design and architecture
 - Command
 - Observer
 - Iterator
+- REST
 
 
 V. AWS Systems Administration
---------------------------------------
+---------------------------------------
 - S3
 - Route 53
 - EC2
@@ -64,21 +67,23 @@ V. AWS Systems Administration
 
 
 VI. Computer Science 
------------------------------
+---------------------------------------
 - Programming methodology
 - Mathematical foundations of computing
 - Programming abstractions
-- Probability for computer scientists
-- Computer organization and systems
-- Principles of Computer Systems
+- Computer Organization and Systems
+- Introduction to Probability for Computer Scientists
 - Design and Analysis of Algorithms
+- Principles of Computer Systems
 - Programming languages
 - Compilers
 - Computer Networking
+- Distributed Systems
+- Computer Systems Architecture
 
 
 VII. Mathematics
------------------------------
+---------------------------------------
 - Discrete Math
 - Statistics
 - Linear Algebra
@@ -88,3 +93,12 @@ VII. Mathematics
 - Regression Analysis
 - Real Analysis
 - Mathematical Modeling
+- Numerical Methods
+- Topology
+
+VIII. Other
+---------------------------------------
+- QA Engineering
+- Data Engineering
+- Security engineering
+
