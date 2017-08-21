@@ -1,9 +1,10 @@
 I. Foundation
 -----------------------------
 - Typing
-- Computer basics
-- Hardware and programming languages
-- Command line
+- Mac and Windows basics
+- Computer parts
+- Programming languages
+- Command line interface
 - Git and Git work flows
 - Text editors and IDEs
 - HTML & CSS
@@ -11,14 +12,14 @@ I. Foundation
 
 II. Programming
 ---------------------------------------
-- Higher order functions and closures
+- ES6+ Syntax
+- Data structures
+- Object oriented programming
 - Functional programming
-- Asynchronous programming and Promises
-- Classes and Object oriented programming
-- Inheritance
-- Maps and sets
-- Iterators and Generators
+- Higher order functions and closures
+- Asynchronous programming 
 - Recursion
+- Regular expressions
 
 
 III. Software development
@@ -72,7 +73,7 @@ VI. Computer Science
 - Mathematical foundations of computing
 - Programming abstractions
 - Computer Organization and Systems
-- Introduction to Probability for Computer Scientists
+- Probability for Computer Scientists
 - Design and Analysis of Algorithms
 - Principles of Computer Systems
 - Programming languages
