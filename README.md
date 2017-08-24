@@ -9,6 +9,7 @@ I. Foundation
 - Text editors and IDEs
 - HTML & CSS
 - How browsers work
+- Technical writing
 
 II. Programming
 ---------------------------------------
@@ -70,10 +71,10 @@ V. AWS Systems Administration
 VI. Computer Science 
 ---------------------------------------
 - Programming methodology
-- Mathematical foundations of computing
 - Programming abstractions
-- Computer Organization and Systems
 - Probability for Computer Scientists
+- Mathematical foundations of computing
+- Computer Organization and Systems
 - Design and Analysis of Algorithms
 - Principles of Computer Systems
 - Programming languages
@@ -87,15 +88,16 @@ VII. Mathematics
 ---------------------------------------
 - Discrete Math
 - Statistics
-- Linear Algebra
+- Regression Analysis
 - Multi variable Calculus
+- Linear Algebra
+- Real Analysis
 - Differential Equations
 - Abstract Algebra
-- Regression Analysis
-- Real Analysis
 - Mathematical Modeling
 - Numerical Methods
 - Topology
+- Cryptography
 
 VIII. Other
 ---------------------------------------
