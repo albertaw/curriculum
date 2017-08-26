@@ -30,9 +30,10 @@ III. Software development
 - Vue
 - Node
 - Testing
-- Continuous integration
 - Containers
+- Continuous Integration
 - Building and Deploying
+- Performance 
 - Security
 - Monitoring
 - Logging 
