@@ -13,7 +13,8 @@ I. Foundation
 
 II. Programming
 ---------------------------------------
-- ES6+ Syntax
+- TypeScript
+- Python
 - Data structures
 - Object oriented programming
 - Functional programming
@@ -83,6 +84,8 @@ VI. Computer Science
 - Computer Networking
 - Distributed Systems
 - Computer Systems Architecture
+- Block chain
+- Quantum computing
 
 
 VII. Mathematics
@@ -99,6 +102,7 @@ VII. Mathematics
 - Numerical Methods
 - Topology
 - Cryptography
+
 
 VIII. Other
 ---------------------------------------
