@@ -4,7 +4,7 @@ I. Foundation
 - Mac and Windows basics
 - Computer parts
 - Programming languages
-- Command line interface
+- Command line
 - Git and Git work flows
 - Text editors and IDEs
 - HTML & CSS
@@ -42,18 +42,20 @@ III. Software development
 - Agile Software Development
 
 
-IV. Software design and architecture
+IV. Software Design 
 ---------------------------------------
-- Singleton
-- Factory
-- Abstract factory
-- Adapter
-- Composite
-- Decorator
-- Command
-- Observer
-- Iterator
-- REST
+- Singleton pattern
+- Factory pattern
+- Abstract factory pattern
+- Adapter pattern
+- Composite pattern
+- Decorator pattern
+- Command pattern
+- Observer pattern
+- Iterator pattern
+- REST architecture
+- MVC architecture
+- MVVM architecture
 
 
 V. AWS Systems Administration
