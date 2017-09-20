@@ -4,8 +4,8 @@ I. Foundation
 - Mac and Windows basics
 - Computer parts
 - Programming languages
-- Command line
-- Git and Git work flows
+- Linux
+- Git 
 - Text editors and IDEs
 - HTML & CSS
 - How browsers work
