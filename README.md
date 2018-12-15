@@ -4,7 +4,7 @@ I. Foundation
 - Mac and Windows basics
 - Computer parts
 - Command line
-- Git 
+- Version control (Git) 
 - Text editors and IDEs
 - HTML & CSS
 - How the internet works
