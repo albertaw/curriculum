@@ -3,36 +3,35 @@ I. Foundation
 - Typing
 - Mac and Windows basics
 - Computer parts
-- Programming languages
-- Linux
+- Command line
 - Git 
 - Text editors and IDEs
 - HTML & CSS
-- How browsers work
+- How the internet works
+- Cyber security
 - Technical writing
 
-II. Programming
+II. Programming and Problem Solving
 ---------------------------------------
-- TypeScript
-- Python
-- Data structures
+- Programming languages
+- Data types
+- Conditionals
+- Loops
+- Functions
 - Object oriented programming
 - Functional programming
-- Higher order functions and closures
 - Asynchronous programming 
 - Recursion
-- Regular expressions
 
 
-III. Software development
+III. Software Construction
 ---------------------------------------
-- Angular
-- React
-- Vue
-- Node
+- Front end development (React)
+- Back end development (Node)
+- Databases
 - Testing
 - Containers
-- Continuous Integration
+- Continuous Integration and delivery
 - Building and Deploying
 - Performance 
 - Security
@@ -42,73 +41,26 @@ III. Software development
 - Agile Software Development
 
 
-IV. Software Design 
+IV. Design Patterns 
 ---------------------------------------
 - Singleton pattern
+- Facade pattern
 - Factory pattern
-- Abstract factory pattern
-- Adapter pattern
 - Composite pattern
 - Decorator pattern
-- Command pattern
 - Observer pattern
 - Iterator pattern
+- State pattern
 - REST architecture
 - MVC architecture
-- MVVM architecture
 
 
-V. AWS Systems Administration
----------------------------------------
-- S3
-- Route 53
-- EC2
-- Elastic load balancing
-- Auto Scaling
-- RDS
-- Dynamo DB
-- Virtual Private Cloud
-- Glacier
-- CloudFront
-
-
-VI. Computer Science 
+V. Math and Computer Science 
 ---------------------------------------
 - Programming methodology
 - Programming abstractions
-- Probability for Computer Scientists
-- Mathematical foundations of computing
-- Computer Organization and Systems
-- Design and Analysis of Algorithms
-- Principles of Computer Systems
-- Programming languages
-- Compilers
-- Computer Networking
-- Distributed Systems
-- Computer Systems Architecture
-- Block chain
-- Quantum computing
-
-
-VII. Mathematics
----------------------------------------
 - Discrete Math
-- Statistics
-- Regression Analysis
-- Multi variable Calculus
 - Linear Algebra
-- Real Analysis
-- Differential Equations
-- Abstract Algebra
-- Mathematical Modeling
-- Numerical Methods
-- Topology
-- Cryptography
 
 
-VIII. Other
----------------------------------------
-- QA Engineering
-- Data Engineering
-- Security engineering
 
